@@ -6,7 +6,6 @@ Medical Insurance in the US is a 'direct-fee' system, which relies on the privat
 
 Lack of the health insurance leads to absence of the preventetive medicine, and as a result can increase the chances of serious illnesses among uninsured and untreated population.
 
-
 ### 1.2 Goals
 
 The goal of this project is to determine whether there is a correlation between the insurance price and the variable parameters of the insurees including their induvidual circumstances. Additionally exploring how does induvidual circumstances compare to one another in significance and their affect on the insurance price.
